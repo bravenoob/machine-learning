@@ -1,4 +1,4 @@
 # Analytics für Entwickler
 
 * Notebook
-  * [![](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/damianavila/RISE/master?filepath=examples%2FREADME.ipynb)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bravenoob/seminar/master?filepath=seminar.ipynb)
