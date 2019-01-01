@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - rise
+  - pip:
+    - jupyter-contrib-nbextensions
