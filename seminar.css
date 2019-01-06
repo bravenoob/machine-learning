@@ -1,3 +1,8 @@
+#rise-header {
+    margin: 10px;
+    right: 10%;
+}
+
 .bg-image {
   /* The image used */
   background-image: url("cover.gif");
